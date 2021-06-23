@@ -4,6 +4,8 @@
 
 > `Making and Breaking the Grid`
 
+---
+
 ## `Layout`
 
 - Symmetry vs Asymmetry
